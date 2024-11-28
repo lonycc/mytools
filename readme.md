@@ -28,4 +28,12 @@
 
 ## 0x05 header_convert.exe
 
+> 从浏览器里复制来的header格式化为主流语言的map/dict
+
 ![header converter](assets/header_converter.png)
+
+## 0x06 pdf_converter.exe
+
+> word/excel/ppt转pdf工具
+
+![pdf converter](assets/pdf_converter.png)
